@@ -1,0 +1,2 @@
+-keep class com.scheck.pos.core.data.remote.dto.** { *; }
+-keepattributes Signature,*Annotation*

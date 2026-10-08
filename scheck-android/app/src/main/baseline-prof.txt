@@ -1,0 +1,6 @@
+HSPLcom/scheck/pos/MainActivity;->**(**)**
+HSPLcom/scheck/pos/ScheckApp;->**(**)**
+HSPLcom/scheck/pos/feature/pos/**;->**(**)**
+HSPLcom/scheck/pos/core/**;->**(**)**
+HSPLandroidx/compose/runtime/**;->**(**)**
+HSPLandroidx/compose/ui/**;->**(**)**
